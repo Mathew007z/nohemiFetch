@@ -1,0 +1,27 @@
+[
+    {
+    "id":1,
+     "nombre":"Ropa1",
+     "price":2000,
+     "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqQrO9LZ3wcMTMRHvZCu-8IccQHYXnD0H3Ow&usqp=CAU"
+    },
+    {   
+        "id":2,
+        "nombre":"Ropa2",
+        "price":4000,
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqQrO9LZ3wcMTMRHvZCu-8IccQHYXnD0H3Ow&usqp=CAU"
+    },
+    {
+        "id":3,
+        "nombre":"Ropa3",
+        "price":1000,
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqQrO9LZ3wcMTMRHvZCu-8IccQHYXnD0H3Ow&usqp=CAU"
+    },
+    {
+        "id":4,
+        "nombre":"Ropa4",
+        "price":22000,
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqQrO9LZ3wcMTMRHvZCu-8IccQHYXnD0H3Ow&usqp=CAU"
+    }
+
+]
